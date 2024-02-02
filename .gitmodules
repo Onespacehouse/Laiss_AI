@@ -4,3 +4,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = git@github.com:Onespacehouse/Laiss_AI_Documentation.git
+[submodule "laiss_ai_api"]
+	path = laiss_ai_api
+	url = git@github.com:JulioPapel/laiss_ai_api.git
