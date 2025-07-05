@@ -41,7 +41,7 @@ A Laiss AI está a ser desenvolvida para uso comercial por empresas e particular
 
 A Laiss AI está preparada para trabalhar com documentos e informação numa rede interna e pode ser usada por múltiplos empregados ou realizar diversas tarefas.
 
-De momento, a Laiss AI está bem adaptada aos negócios com muita documentação e múltiplos formatos, onde a necessidade de encontrar essa informação rapidamente é imprescindível. 
+De momento, a Laiss AI está bem adaptada aos negócios, tem uma documentação extensa, trabalha com múltiplos formatos e é um precioso auxílio quando a necessidade de encontrar informação rapidamente é imprescindível. 
 
 Criado por Júlio Papel, a Laiss AI funciona em Ruby/Python/Java/C/C++, e é distribuída de forma binária numa arquitectura de hardware fechado e proprietário, por forma a garantir a segurança e privacidade dos seus dados.
 
