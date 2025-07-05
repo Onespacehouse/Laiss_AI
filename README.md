@@ -45,7 +45,7 @@ De momento, a Laiss AI está bem adaptada aos negócios, tem uma documentação 
 
 Criado por Júlio Papel, a Laiss AI funciona em Ruby/Python/Java/C/C++, e é distribuída de forma binária numa arquitectura de hardware fechado e proprietário, por forma a garantir a segurança e privacidade dos seus dados.
 
-Este projecto está constantemente à procura de novos investidores para a sua expansão. Se você quiser implementar uma IA na sua empresa ou negócio ou quiser investir num produto inovador, distribuído e aumentar o seu próprio capital em pouco tempo, contacte a OneSpaceHouse no Luxemburgo e peça uma demonstração* da Laiss AI e Contratos de Investimento (cada demonstração têm um custo minimo variavél com a sua necessidade).
+Este projecto está constantemente à procura de novos investidores para a sua expansão. Se você quiser implementar uma IA na sua empresa ou negócio ou quiser investir num produto inovador, distribuído e aumentar o seu próprio capital em pouco tempo, contacte a OneSpaceHouse no Luxemburgo e peça uma demonstração* da Laiss AI e Contratos de Investimento (cada demonstração tem um custo mínimo variável, de acordo com a sua necessidade).
 
 [Contact]
 Nadia Jaou  - CEO, OneSpaceHouse sàrls - info@onespacehouse.com
