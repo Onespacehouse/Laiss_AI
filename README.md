@@ -33,20 +33,24 @@ This project is constantly seeking new investors to expand the project. If you w
 
 [PT]
 
-A Laiss AI é uma Inteligência Artificial com a capacidade de realizar tarefas controladas por de modelos de IA em multiplas camadas, usando LLM's, NPL's, IIM's e MLM's Laiss AI usa o formato de dados ML de LaiML além de converter outros formatos compativéis como o LLaMA, Alpaca e Vincuna. 
+A Laiss AI é uma Inteligência Artificial com a capacidade de realizar tarefas controladas por modelos de IA em multiplas camadas, usando para o efeito LLM's, NPL's, IIM's e MLM's. 
 
-Laiss AI Está a ser desenvolvido para uso comercial por empresas e particulares de forma a mantér a propriedade intelectual dos mesmos usando Nós indexados de controlo e reajuste em tempo real na conversão dos dados propriétarios separados do modelo base. 
+A Laiss AI usa o formato de dados ML do LaiML, além de converter outros formatos compativéis como o LLaMA, Alpaca e Vincuna. 
 
-a Laiss AI é adaptada a trabalhar com documentos e informação em uma rede interna, pode ser usada por multiplos empregados ou fazer multiplas tarefas. De momento a Laiss AI está bem adaptada à negócios com muita documentação e multiplos formatos onde a necessidade de encontrar essa informação rapidamente é imprescindivél. 
+A Laiss AI está a ser desenvolvida para uso comercial por empresas e particulares de forma a manter a propriedade intelectual dos mesmos, usando nós indexados de controlo e reajuste em tempo real na conversão dos dados proprietários separados do modelo base. 
 
-Criado por Júlio Papel Laiss AI funciona em Ruby/Python/Java/C/C++, e é distribuida de forma binária em Arquitectura de Hardware fechado proprietário por forma a garantir a segurança e privacidade dos seus dados.
+A Laiss AI está adaptada a trabalhar com documentos e informação numa rede interna, pode ser usada por múltiplos empregados ou fazer diversas tarefas.
 
-Este projecto está constantemente a procura de novos Investidores para alargar o projecto, se vocé quer um AI a trabalhar na sua empresa ou negócio ou quer investir em um produto inovador distribuido e aumentar o seu proprio capital em pouco tempo, contacte a OneSpaceHouse no Luxemburgo e peça uma demonstração* da Laiss AI e Contratos de Investimento (cada demonstração têm um custo minimo variavél com a sua necessidade).
+De momento a Laiss AI está bem adaptada aos negócios com muita documentação e múltiplos formatos, onde a necessidade de encontrar essa informação rapidamente é imprescindível. 
+
+Criado por Júlio Papel, a Laiss AI funciona em Ruby/Python/Java/C/C++, e é distribuida de forma binária numa Arquitectura de Hardware fechado e proprietário por forma a garantir a segurança e privacidade dos seus dados.
+
+Este projecto está constantemente à procura de novos investidores para expandir o projecto. Se você quiser um AI a trabalhar na sua empresa ou negócio ou quiser investir num produto inovador, distribuido e aumentar o seu próprio capital em pouco tempo, contacte a OneSpaceHouse no Luxemburgo e peça uma demonstração* da Laiss AI e Contratos de Investimento (cada demonstração têm um custo minimo variavél com a sua necessidade).
 
 [Contact]
 Nadia Jaou  - CEO, OneSpaceHouse sàrls - info@onespacehouse.com
 
-Onespacehouse, sàrls  
+Onespacehouse, sarls  
 25C, Boulevard Royal,  
 L-2449 Luxembourg
 
